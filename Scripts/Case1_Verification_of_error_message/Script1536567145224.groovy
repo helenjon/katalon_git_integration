@@ -42,7 +42,7 @@ WebUI.selectOptionByValue(findTestObject('Page_Sign in or Register  edX/select_A
 'click Registration button'
 WebUI.click(findTestObject('Object Repository/Page_Sign in or Register  edX/button_Create Account'))
 
-WebUI.waitForElementPresent(findTestObject('Page_Sign in or Register  edX/StatusErrorMessage'), 3)
+WebUI.waitForElementPresent(findTestObject('Page_Sign in or Register  edX/StatusErrorMessage'), 4)
 
 def text = WebUI.getText(findTestObject('Page_Sign in or Register  edX/li_Enter a password with at le'))
 
