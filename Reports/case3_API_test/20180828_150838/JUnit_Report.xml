@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="case3_API_test" time="1" tests="0" failures="1" errors="0">
+   <testsuite name="case3_API_test" tests="0" failures="1" errors="0" time="1" timestamp="2018-08-28 15:08:39" hostname="Olena_Mokina - EPUAVINW0211.kyiv.epam.com" id="Test Suites/case3_API_test">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\My doc\\Katalon\\wwwww\\Reports\\case3_API_test\\20180828_150838"/>
+         <property name="logFiles" value="C:\\My doc\\Katalon\\wwwww\\Reports\\case3_API_test\\20180828_150838\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Olena_Mokina - EPUAVINW0211.kyiv.epam.com"/>
+         <property name="hostAddress" value="10.24.12.187"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.6.1.1"/>
+      </properties>
+      <testcase name="Test Cases/case3_API_test" classname="Test Cases/case3_API_test" status="FAILED">
+         <failure type="FAILED" message="Unable to verify element property value (Root cause: Expected element property value 'Test' is not equal with actual property value 'Eve')"/>
+         <system-out><![CDATA[2018-08-28 15:08:39 - [TEST_CASE][FAILED] - Test Cases/case3_API_test: Test Cases/case3_API_test FAILED because (of) Unable to verify element property value (Root cause: Expected element property value 'Test' is not equal with actual property value 'Eve')
+
+2018-08-28 15:08:39 - [TEST_STEP][PASSED] - Statement - response = com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords.sendRequest(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(APItestObjects/GetUserData)): Send request successfully
+
+2018-08-28 15:08:40 - [MESSAGE][PASSED] - Send request successfully
+
+2018-08-28 15:08:40 - [TEST_STEP][PASSED] - verifyResponseStatusCode: Verify response status code successfully
+
+2018-08-28 15:08:40 - [MESSAGE][PASSED] - Verify response status code successfully
+
+2018-08-28 15:08:40 - [TEST_STEP][FAILED] - verifyElementPropertyValue: Unable to verify element property value (Root cause: Expected element property value 'Test' is not equal with actual property value 'Eve')
+
+2018-08-28 15:08:40 - [MESSAGE][FAILED] - Expected element property value 'Test' is not equal with actual property value 'Eve'
+
+2018-08-28 15:08:40 - [MESSAGE][FAILED] - Unable to verify element property value (Root cause: Expected element property value 'Test' is not equal with actual property value 'Eve')]]></system-out>
+         <system-err><![CDATA[2018-08-28 15:08:39 - [TEST_CASE][FAILED] - Test Cases/case3_API_test: Test Cases/case3_API_test FAILED because (of) Unable to verify element property value (Root cause: Expected element property value 'Test' is not equal with actual property value 'Eve')]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-08-28 15:08:39 - [TEST_SUITE][FAILED] - case3_API_test: Test Cases/case3_API_test FAILED because (of) Unable to verify element property value (Root cause: Expected element property value 'Test' is not equal with actual property value 'Eve')]]></system-out>
+      <system-err><![CDATA[2018-08-28 15:08:39 - [TEST_SUITE][FAILED] - case3_API_test: Test Cases/case3_API_test FAILED because (of) Unable to verify element property value (Root cause: Expected element property value 'Test' is not equal with actual property value 'Eve')]]></system-err>
+   </testsuite>
+</testsuites>

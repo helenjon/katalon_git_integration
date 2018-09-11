@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Case1_Verification_of_error_message</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60af929d-404a-49d5-ae62-8b85ea52b9e3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f6fc5f71-08ac-40cd-a1bc-d79fdd93a512</id>
+      <masked>false</masked>
+      <name>textvariable</name>
+   </variable>
+   <variable>
+      <defaultValue>'helena.mokina1@gmail.com'</defaultValue>
+      <description></description>
+      <id>aa40bfcf-bbc6-4c72-82b6-3a1dc849ae7c</id>
+      <masked>false</masked>
+      <name>input_email</name>
+   </variable>
+</TestCaseEntity>

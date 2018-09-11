@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuiteCase2" time="143" tests="0" failures="4" errors="0">
+   <testsuite name="TestSuiteCase2" tests="0" failures="4" errors="0" time="143" timestamp="2018-08-28 15:57:42" hostname="Olena_Mokina - EPUAVINW0211.kyiv.epam.com" id="Test Suites/TestSuiteCase2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\My doc\\Katalon\\wwwww\\Reports\\TestSuiteCase2\\20180828_155739"/>
+         <property name="logFiles" value="C:\\My doc\\Katalon\\wwwww\\Reports\\TestSuiteCase2\\20180828_155739\\execution0.log"/>
+         <property name="attachments" value="C:\\My doc\\Katalon\\wwwww\\Reports\\TestSuiteCase2\\20180828_155739\\1535461099009.png, C:\\My doc\\Katalon\\wwwww\\Reports\\TestSuiteCase2\\20180828_155739\\1535461134541.png, C:\\My doc\\Katalon\\wwwww\\Reports\\TestSuiteCase2\\20180828_155739\\1535461170042.png, C:\\My doc\\Katalon\\wwwww\\Reports\\TestSuiteCase2\\20180828_155739\\1535461205558.png"/>
+         <property name="hostName" value="Olena_Mokina - EPUAVINW0211.kyiv.epam.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.6.1.1"/>
+         <property name="browser" value="Firefox 61.0"/>
+         <property name="hostAddress" value="10.24.12.187"/>
+         <property name="sessionId" value="fd6af321-d7f2-49ba-91db-80db383d7a6e"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/case2" classname="Test Cases/case2" status="FAILED">
+         <failure type="FAILED" message="Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)"/>
+         <system-out><![CDATA[2018-08-28 15:57:42 - [TEST_CASE][FAILED] - Test Cases/case2: Test Cases/case2 FAILED because (of) Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+
+2018-08-28 15:57:42 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-08-28 15:57:45 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-28 15:57:45 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.edx.org' successfully
+
+2018-08-28 15:57:48 - [MESSAGE][PASSED] - Navigate to 'https://www.edx.org' successfully
+
+2018-08-28 15:57:48 - [TEST_STEP][FAILED] - setText: Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+
+2018-08-28 15:58:19 - [MESSAGE][FAILED] - Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+[[ATTACHMENT|C:\\My doc\\Katalon\\wwwww\\Reports\\TestSuiteCase2\\20180828_155739\\1535461099009.png]]]]></system-out>
+         <system-err><![CDATA[2018-08-28 15:57:42 - [TEST_CASE][FAILED] - Test Cases/case2: Test Cases/case2 FAILED because (of) Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/case2" classname="Test Cases/case2" status="FAILED">
+         <failure type="FAILED" message="Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)"/>
+         <system-out><![CDATA[2018-08-28 15:58:19 - [TEST_CASE][FAILED] - Test Cases/case2: Test Cases/case2 FAILED because (of) Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+
+2018-08-28 15:58:19 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-08-28 15:58:19 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-08-28 15:58:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-28 15:58:21 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.edx.org' successfully
+
+2018-08-28 15:58:23 - [MESSAGE][PASSED] - Navigate to 'https://www.edx.org' successfully
+
+2018-08-28 15:58:23 - [TEST_STEP][FAILED] - setText: Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+
+2018-08-28 15:58:54 - [MESSAGE][FAILED] - Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+[[ATTACHMENT|C:\\My doc\\Katalon\\wwwww\\Reports\\TestSuiteCase2\\20180828_155739\\1535461134541.png]]]]></system-out>
+         <system-err><![CDATA[2018-08-28 15:58:19 - [TEST_CASE][FAILED] - Test Cases/case2: Test Cases/case2 FAILED because (of) Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/case2" classname="Test Cases/case2" status="FAILED">
+         <failure type="FAILED" message="Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)"/>
+         <system-out><![CDATA[2018-08-28 15:58:54 - [TEST_CASE][FAILED] - Test Cases/case2: Test Cases/case2 FAILED because (of) Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+
+2018-08-28 15:58:54 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-08-28 15:58:54 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-08-28 15:58:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-28 15:58:57 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.edx.org' successfully
+
+2018-08-28 15:58:59 - [MESSAGE][PASSED] - Navigate to 'https://www.edx.org' successfully
+
+2018-08-28 15:58:59 - [TEST_STEP][FAILED] - setText: Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+
+2018-08-28 15:59:30 - [MESSAGE][FAILED] - Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+[[ATTACHMENT|C:\\My doc\\Katalon\\wwwww\\Reports\\TestSuiteCase2\\20180828_155739\\1535461170042.png]]]]></system-out>
+         <system-err><![CDATA[2018-08-28 15:58:54 - [TEST_CASE][FAILED] - Test Cases/case2: Test Cases/case2 FAILED because (of) Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/case2" classname="Test Cases/case2" status="FAILED">
+         <failure type="FAILED" message="Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)"/>
+         <system-out><![CDATA[2018-08-28 15:59:30 - [TEST_CASE][FAILED] - Test Cases/case2: Test Cases/case2 FAILED because (of) Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+
+2018-08-28 15:59:30 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-08-28 15:59:30 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+2018-08-28 15:59:32 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-28 15:59:32 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://www.edx.org' successfully
+
+2018-08-28 15:59:34 - [MESSAGE][PASSED] - Navigate to 'https://www.edx.org' successfully
+
+2018-08-28 15:59:34 - [TEST_STEP][FAILED] - setText: Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+
+2018-08-28 16:00:05 - [MESSAGE][FAILED] - Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)
+[[ATTACHMENT|C:\\My doc\\Katalon\\wwwww\\Reports\\TestSuiteCase2\\20180828_155739\\1535461205558.png]]]]></system-out>
+         <system-err><![CDATA[2018-08-28 15:59:30 - [TEST_CASE][FAILED] - Test Cases/case2: Test Cases/case2 FAILED because (of) Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-08-28 15:57:42 - [TEST_SUITE][FAILED] - TestSuiteCase2: Test Cases/case2 FAILED because (of) Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)]]></system-out>
+      <system-err><![CDATA[2018-08-28 15:57:42 - [TEST_SUITE][FAILED] - TestSuiteCase2: Test Cases/case2 FAILED because (of) Unable to set text 'helena1.mokina@gmail.com' of object 'Object Repository/Page_Sign in or Register  edX/input_email' (Root cause: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Page_Sign in or Register  edX/input_email' located by 'By.xpath: //input[@id = 'register-email' and @type = 'email' and @name = 'email']' not found)]]></system-err>
+   </testsuite>
+</testsuites>

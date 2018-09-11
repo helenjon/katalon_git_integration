@@ -1,0 +1,56 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuiteCase2,Firefox 61.0,,2018-08-28 17:42:19,2018-08-28 17:42:59,39.672s,FAILED
+,,,,,,
+Test Cases/case2,Firefox 61.0,,2018-08-28 17:42:20,2018-08-28 17:42:30,10.572s,PASSED
+openBrowser,Firefox 61.0,,2018-08-28 17:42:20,2018-08-28 17:42:23,2.890s,PASSED
+navigateToUrl,Firefox 61.0,,2018-08-28 17:42:23,2018-08-28 17:42:26,3.793s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:26,2018-08-28 17:42:27,0.095s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:27,2018-08-28 17:42:27,0.077s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:27,2018-08-28 17:42:27,0.070s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:27,2018-08-28 17:42:27,0.043s,PASSED
+selectOptionByValue,Firefox 61.0,,2018-08-28 17:42:27,2018-08-28 17:42:29,2.402s,PASSED
+click,Firefox 61.0,,2018-08-28 17:42:29,2018-08-28 17:42:29,0.271s,PASSED
+waitForElementPresent,Firefox 61.0,,2018-08-28 17:42:29,2018-08-28 17:42:29,0.013s,PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Firefox 61.0,,2018-08-28 17:42:29,2018-08-28 17:42:29,0.027s,PASSED
+verifyTextPresent,Firefox 61.0,,2018-08-28 17:42:29,2018-08-28 17:42:30,0.468s,PASSED
+closeBrowser,Firefox 61.0,,2018-08-28 17:42:30,2018-08-28 17:42:30,0.203s,PASSED
+,,,,,,
+Test Cases/case2,Firefox 61.0,,2018-08-28 17:42:30,2018-08-28 17:42:39,8.446s,PASSED
+openBrowser,Firefox 61.0,,2018-08-28 17:42:30,2018-08-28 17:42:32,2.245s,PASSED
+navigateToUrl,Firefox 61.0,,2018-08-28 17:42:32,2018-08-28 17:42:35,2.728s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:35,2018-08-28 17:42:35,0.071s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:35,2018-08-28 17:42:35,0.059s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:35,2018-08-28 17:42:35,0.050s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:35,2018-08-28 17:42:35,0.059s,PASSED
+selectOptionByValue,Firefox 61.0,,2018-08-28 17:42:35,2018-08-28 17:42:38,2.297s,PASSED
+click,Firefox 61.0,,2018-08-28 17:42:38,2018-08-28 17:42:38,0.267s,PASSED
+waitForElementPresent,Firefox 61.0,,2018-08-28 17:42:38,2018-08-28 17:42:38,0.010s,PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Firefox 61.0,,2018-08-28 17:42:38,2018-08-28 17:42:38,0.024s,PASSED
+verifyTextPresent,Firefox 61.0,,2018-08-28 17:42:38,2018-08-28 17:42:38,0.427s,PASSED
+closeBrowser,Firefox 61.0,,2018-08-28 17:42:38,2018-08-28 17:42:39,0.196s,PASSED
+,,,,,,
+Test Cases/case2,Firefox 61.0,,2018-08-28 17:42:39,2018-08-28 17:42:46,7.882s,FAILED
+openBrowser,Firefox 61.0,,2018-08-28 17:42:39,2018-08-28 17:42:41,2.238s,PASSED
+navigateToUrl,Firefox 61.0,,2018-08-28 17:42:41,2018-08-28 17:42:43,2.474s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:43,2018-08-28 17:42:43,0.053s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:43,2018-08-28 17:42:43,0.034s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:43,2018-08-28 17:42:43,0.034s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:43,2018-08-28 17:42:43,0.030s,PASSED
+selectOptionByValue,Firefox 61.0,,2018-08-28 17:42:43,2018-08-28 17:42:46,2.225s,PASSED
+click,Firefox 61.0,,2018-08-28 17:42:46,2018-08-28 17:42:46,0.268s,PASSED
+waitForElementPresent,Firefox 61.0,,2018-08-28 17:42:46,2018-08-28 17:42:46,0.008s,PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Firefox 61.0,,2018-08-28 17:42:46,2018-08-28 17:42:46,0.022s,PASSED
+verifyTextPresent,Firefox 61.0,,2018-08-28 17:42:46,2018-08-28 17:42:46,0.482s,FAILED
+,,,,,,
+Test Cases/case2,Firefox 61.0,,2018-08-28 17:42:46,2018-08-28 17:42:59,12.281s,FAILED
+openBrowser,Firefox 61.0,,2018-08-28 17:42:46,2018-08-28 17:42:49,2.946s,PASSED
+navigateToUrl,Firefox 61.0,,2018-08-28 17:42:49,2018-08-28 17:42:55,6.048s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:55,2018-08-28 17:42:56,0.065s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:56,2018-08-28 17:42:56,0.053s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:56,2018-08-28 17:42:56,0.065s,PASSED
+setText,Firefox 61.0,,2018-08-28 17:42:56,2018-08-28 17:42:56,0.046s,PASSED
+selectOptionByValue,Firefox 61.0,,2018-08-28 17:42:56,2018-08-28 17:42:58,2.269s,PASSED
+click,Firefox 61.0,,2018-08-28 17:42:58,2018-08-28 17:42:58,0.292s,PASSED
+waitForElementPresent,Firefox 61.0,,2018-08-28 17:42:58,2018-08-28 17:42:58,0.007s,PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Firefox 61.0,,2018-08-28 17:42:58,2018-08-28 17:42:58,0.021s,PASSED
+verifyTextPresent,Firefox 61.0,,2018-08-28 17:42:58,2018-08-28 17:42:59,0.461s,FAILED

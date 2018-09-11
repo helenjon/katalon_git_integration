@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RegisterButton</name>
+   <tag></tag>
+   <elementGuidId>5dcd5d78-d5e1-4146-b07d-4cb5d2cf164c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@href=&quot;https://courses.edx.org/register&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@href=&quot;https://courses.edx.org/register&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

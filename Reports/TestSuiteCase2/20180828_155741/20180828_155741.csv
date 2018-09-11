@@ -1,0 +1,49 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuiteCase2,Edge 16,,2018-08-28 16:00:36,2018-08-28 16:01:47,1m - 11.274s,FAILED
+,,,,,,
+Test Cases/case2,Edge 16,,2018-08-28 16:00:36,2018-08-28 16:00:42,5.906s,FAILED
+openBrowser,Edge 16,,2018-08-28 16:00:36,2018-08-28 16:00:38,1.766s,PASSED
+navigateToUrl,Edge 16,,2018-08-28 16:00:38,2018-08-28 16:00:41,2.832s,PASSED
+setText,Edge 16,,2018-08-28 16:00:41,2018-08-28 16:00:41,0.083s,PASSED
+setText,Edge 16,,2018-08-28 16:00:41,2018-08-28 16:00:41,0.032s,PASSED
+setText,Edge 16,,2018-08-28 16:00:41,2018-08-28 16:00:41,0.066s,PASSED
+setText,Edge 16,,2018-08-28 16:00:41,2018-08-28 16:00:41,0.026s,PASSED
+selectOptionByValue,Edge 16,,2018-08-28 16:00:41,2018-08-28 16:00:42,0.678s,PASSED
+click,Edge 16,,2018-08-28 16:00:42,2018-08-28 16:00:42,0.087s,PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Edge 16,,2018-08-28 16:00:42,2018-08-28 16:00:42,0.022s,PASSED
+verifyTextPresent,Edge 16,,2018-08-28 16:00:42,2018-08-28 16:00:42,0.119s,FAILED
+,,,,,,
+Test Cases/case2,Edge 16,,2018-08-28 16:00:42,2018-08-28 16:01:19,36.727s,FAILED
+openBrowser,Edge 16,,2018-08-28 16:00:42,2018-08-28 16:00:46,3.752s,PASSED
+navigateToUrl,Edge 16,,2018-08-28 16:00:46,2018-08-28 16:00:48,1.775s,PASSED
+setText,Edge 16,,2018-08-28 16:00:48,2018-08-28 16:00:48,0.061s,PASSED
+setText,Edge 16,,2018-08-28 16:00:48,2018-08-28 16:00:48,0.048s,PASSED
+setText,Edge 16,,2018-08-28 16:00:48,2018-08-28 16:00:48,0.028s,PASSED
+setText,Edge 16,,2018-08-28 16:00:48,2018-08-28 16:00:48,0.029s,PASSED
+selectOptionByValue,Edge 16,,2018-08-28 16:00:48,2018-08-28 16:00:48,0.638s,PASSED
+click,Edge 16,,2018-08-28 16:00:48,2018-08-28 16:00:48,0.018s,PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Edge 16,,2018-08-28 16:00:48,2018-08-28 16:01:19,30.369s,FAILED
+,,,,,,
+Test Cases/case2,Edge 16,,2018-08-28 16:01:19,2018-08-28 16:01:25,6.293s,FAILED
+openBrowser,Edge 16,,2018-08-28 16:01:19,2018-08-28 16:01:23,3.685s,PASSED
+navigateToUrl,Edge 16,,2018-08-28 16:01:23,2018-08-28 16:01:24,1.730s,PASSED
+setText,Edge 16,,2018-08-28 16:01:24,2018-08-28 16:01:24,0.073s,PASSED
+setText,Edge 16,,2018-08-28 16:01:24,2018-08-28 16:01:24,0.021s,PASSED
+setText,Edge 16,,2018-08-28 16:01:24,2018-08-28 16:01:24,0.029s,PASSED
+setText,Edge 16,,2018-08-28 16:01:24,2018-08-28 16:01:24,0.027s,PASSED
+selectOptionByValue,Edge 16,,2018-08-28 16:01:24,2018-08-28 16:01:25,0.496s,PASSED
+click,Edge 16,,2018-08-28 16:01:25,2018-08-28 16:01:25,0.087s,PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Edge 16,,2018-08-28 16:01:25,2018-08-28 16:01:25,0.031s,PASSED
+verifyTextPresent,Edge 16,,2018-08-28 16:01:25,2018-08-28 16:01:25,0.102s,FAILED
+,,,,,,
+Test Cases/case2,Edge 16,,2018-08-28 16:01:25,2018-08-28 16:01:44,19.302s,FAILED
+openBrowser,Edge 16,,2018-08-28 16:01:25,2018-08-28 16:01:29,3.680s,PASSED
+navigateToUrl,Edge 16,,2018-08-28 16:01:29,2018-08-28 16:01:31,2.171s,PASSED
+setText,Edge 16,,2018-08-28 16:01:31,2018-08-28 16:01:31,0.051s,PASSED
+setText,Edge 16,,2018-08-28 16:01:31,2018-08-28 16:01:31,0.032s,PASSED
+setText,Edge 16,,2018-08-28 16:01:31,2018-08-28 16:01:31,0.030s,PASSED
+setText,Edge 16,,2018-08-28 16:01:31,2018-08-28 16:01:31,0.025s,PASSED
+selectOptionByValue,Edge 16,,2018-08-28 16:01:31,2018-08-28 16:01:32,0.582s,PASSED
+click,Edge 16,,2018-08-28 16:01:32,2018-08-28 16:01:32,0.033s,PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Edge 16,,2018-08-28 16:01:32,2018-08-28 16:01:44,12.609s,PASSED
+verifyTextPresent,Edge 16,,2018-08-28 16:01:44,2018-08-28 16:01:44,0.079s,FAILED

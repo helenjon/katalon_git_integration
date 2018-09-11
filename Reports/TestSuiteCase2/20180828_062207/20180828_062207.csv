@@ -1,0 +1,53 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuiteCase2,Chrome 68.0.3440.106,,2018-08-28 06:22:13,2018-08-28 06:23:34,"1m - 21,212s",FAILED
+,,,,,,
+Test Cases/case2,Chrome 68.0.3440.106,,2018-08-28 06:22:14,2018-08-28 06:22:38,"24,478s",PASSED
+openBrowser,Chrome 68.0.3440.106,,2018-08-28 06:22:14,2018-08-28 06:22:21,"6,360s",PASSED
+navigateToUrl,Chrome 68.0.3440.106,,2018-08-28 06:22:21,2018-08-28 06:22:28,"7,189s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:22:28,2018-08-28 06:22:29,"1,253s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:22:29,2018-08-28 06:22:30,"0,502s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:22:30,2018-08-28 06:22:30,"0,539s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:22:30,2018-08-28 06:22:31,"0,254s",PASSED
+selectOptionByValue,Chrome 68.0.3440.106,,2018-08-28 06:22:31,2018-08-28 06:22:36,"5,716s",PASSED
+click,Chrome 68.0.3440.106,,2018-08-28 06:22:36,2018-08-28 06:22:37,"0,514s",PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Chrome 68.0.3440.106,,2018-08-28 06:22:37,2018-08-28 06:22:37,"0,241s",PASSED
+verifyTextPresent,Chrome 68.0.3440.106,,2018-08-28 06:22:37,2018-08-28 06:22:38,"0,548s",PASSED
+closeBrowser,Chrome 68.0.3440.106,,2018-08-28 06:22:38,2018-08-28 06:22:38,"0,764s",PASSED
+,,,,,,
+Test Cases/case2,Chrome 68.0.3440.106,,2018-08-28 06:22:38,2018-08-28 06:22:58,"19,251s",PASSED
+openBrowser,Chrome 68.0.3440.106,,2018-08-28 06:22:38,2018-08-28 06:22:42,"3,285s",PASSED
+navigateToUrl,Chrome 68.0.3440.106,,2018-08-28 06:22:42,2018-08-28 06:22:48,"5,880s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:22:48,2018-08-28 06:22:49,"1,512s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:22:49,2018-08-28 06:22:50,"0,807s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:22:50,2018-08-28 06:22:50,"0,195s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:22:50,2018-08-28 06:22:50,"0,314s",PASSED
+selectOptionByValue,Chrome 68.0.3440.106,,2018-08-28 06:22:50,2018-08-28 06:22:56,"5,074s",PASSED
+click,Chrome 68.0.3440.106,,2018-08-28 06:22:56,2018-08-28 06:22:56,"0,531s",PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Chrome 68.0.3440.106,,2018-08-28 06:22:56,2018-08-28 06:22:56,"0,148s",PASSED
+verifyTextPresent,Chrome 68.0.3440.106,,2018-08-28 06:22:56,2018-08-28 06:22:57,"0,525s",PASSED
+closeBrowser,Chrome 68.0.3440.106,,2018-08-28 06:22:57,2018-08-28 06:22:58,"0,806s",PASSED
+,,,,,,
+Test Cases/case2,Chrome 68.0.3440.106,,2018-08-28 06:22:58,2018-08-28 06:23:16,"18,441s",PASSED
+openBrowser,Chrome 68.0.3440.106,,2018-08-28 06:22:58,2018-08-28 06:23:01,"3,407s",PASSED
+navigateToUrl,Chrome 68.0.3440.106,,2018-08-28 06:23:01,2018-08-28 06:23:06,"5,139s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:23:06,2018-08-28 06:23:08,"1,065s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:23:08,2018-08-28 06:23:08,"0,246s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:23:08,2018-08-28 06:23:08,"0,329s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:23:08,2018-08-28 06:23:09,"0,395s",PASSED
+selectOptionByValue,Chrome 68.0.3440.106,,2018-08-28 06:23:09,2018-08-28 06:23:14,"5,392s",PASSED
+click,Chrome 68.0.3440.106,,2018-08-28 06:23:14,2018-08-28 06:23:14,"0,501s",PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Chrome 68.0.3440.106,,2018-08-28 06:23:14,2018-08-28 06:23:15,"0,199s",PASSED
+verifyTextPresent,Chrome 68.0.3440.106,,2018-08-28 06:23:15,2018-08-28 06:23:15,"0,607s",PASSED
+closeBrowser,Chrome 68.0.3440.106,,2018-08-28 06:23:15,2018-08-28 06:23:16,"0,832s",PASSED
+,,,,,,
+Test Cases/case2,Chrome 68.0.3440.106,,2018-08-28 06:23:16,2018-08-28 06:23:34,"17,478s",FAILED
+openBrowser,Chrome 68.0.3440.106,,2018-08-28 06:23:16,2018-08-28 06:23:19,"3,086s",PASSED
+navigateToUrl,Chrome 68.0.3440.106,,2018-08-28 06:23:19,2018-08-28 06:23:24,"5,218s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:23:24,2018-08-28 06:23:26,"1,217s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:23:26,2018-08-28 06:23:26,"0,316s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:23:26,2018-08-28 06:23:27,"0,648s",PASSED
+setText,Chrome 68.0.3440.106,,2018-08-28 06:23:27,2018-08-28 06:23:27,"0,350s",PASSED
+selectOptionByValue,Chrome 68.0.3440.106,,2018-08-28 06:23:27,2018-08-28 06:23:32,"4,791s",PASSED
+click,Chrome 68.0.3440.106,,2018-08-28 06:23:32,2018-08-28 06:23:32,"0,522s",PASSED
+Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)),Chrome 68.0.3440.106,,2018-08-28 06:23:32,2018-08-28 06:23:32,"0,208s",PASSED
+verifyTextPresent,Chrome 68.0.3440.106,,2018-08-28 06:23:32,2018-08-28 06:23:34,"1,102s",FAILED

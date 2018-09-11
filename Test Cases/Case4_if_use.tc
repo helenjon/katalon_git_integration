@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Case4_if_use</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d59ebc65-a14c-4ac0-80f6-d9219eb16983</testCaseGuid>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>8269d1a8-027c-4527-b301-6a4575d8df17</id>
+      <masked>false</masked>
+      <name>registrationname</name>
+   </variable>
+   <variable>
+      <defaultValue>'&quot;It looks like &quot; + registrationname + &quot; belongs to an existing account. Try again with a different email address.&quot;'</defaultValue>
+      <description></description>
+      <id>b80b1400-567d-4494-bb87-b3b8d6e6984c</id>
+      <masked>false</masked>
+      <name>testvar</name>
+   </variable>
+</TestCaseEntity>

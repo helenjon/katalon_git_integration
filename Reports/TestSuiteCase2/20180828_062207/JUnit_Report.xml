@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuiteCase2" time="81" tests="3" failures="1" errors="0">
+   <testsuite name="TestSuiteCase2" tests="3" failures="1" errors="0" time="81" timestamp="2018-08-28 06:22:13" hostname="admin - 192.168.1.7" id="Test Suites/TestSuiteCase2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\Katalon_Studio_Windows_32-5.6.1\\wwwww\\Reports\\TestSuiteCase2\\20180828_062207"/>
+         <property name="logFiles" value="D:\\Katalon_Studio_Windows_32-5.6.1\\wwwww\\Reports\\TestSuiteCase2\\20180828_062207\\execution0.log"/>
+         <property name="attachments" value="D:\\Katalon_Studio_Windows_32-5.6.1\\wwwww\\Reports\\TestSuiteCase2\\20180828_062207\\1535426613617.png"/>
+         <property name="hostName" value="admin - 192.168.1.7"/>
+         <property name="os" value="Windows 7 32bit"/>
+         <property name="katalonVersion" value="5.6.1.1"/>
+         <property name="browser" value="Chrome 68.0.3440.106"/>
+         <property name="hostAddress" value="192.168.1.7"/>
+         <property name="sessionId" value="7c00f63b9a8d8b41f22c9e2c8eb36ae4"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 7"/>
+      </properties>
+      <testcase name="Test Cases/case2" classname="Test Cases/case2" status="PASSED">
+         <system-out><![CDATA[2018-08-28 06:22:14 - [TEST_CASE][PASSED] - Test Cases/case2: Test Cases/case2
+
+2018-08-28 06:22:14 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-08-28 06:22:21 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-28 06:22:21 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://courses.edx.org/register' successfully
+
+2018-08-28 06:22:28 - [MESSAGE][PASSED] - Navigate to 'https://courses.edx.org/register' successfully
+
+2018-08-28 06:22:28 - [TEST_STEP][PASSED] - setText: Text 'helena1.mokina@gmail.com' is set on object 'Object Repository/Page_Sign in or Register  edX/input_email'
+
+2018-08-28 06:22:29 - [MESSAGE][PASSED] - Text 'helena1.mokina@gmail.com' is set on object 'Object Repository/Page_Sign in or Register  edX/input_email'
+
+2018-08-28 06:22:29 - [TEST_STEP][PASSED] - setText: Text 'helena' is set on object 'Object Repository/Page_Sign in or Register  edX/input_name'
+
+2018-08-28 06:22:30 - [MESSAGE][PASSED] - Text 'helena' is set on object 'Object Repository/Page_Sign in or Register  edX/input_name'
+
+2018-08-28 06:22:30 - [TEST_STEP][PASSED] - setText: Text 'helenjohn' is set on object 'Object Repository/Page_Sign in or Register  edX/input_username'
+
+2018-08-28 06:22:30 - [MESSAGE][PASSED] - Text 'helenjohn' is set on object 'Object Repository/Page_Sign in or Register  edX/input_username'
+
+2018-08-28 06:22:30 - [TEST_STEP][PASSED] - setText: Text '1' is set on object 'Object Repository/Page_Sign in or Register  edX/input_password'
+
+2018-08-28 06:22:31 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/Page_Sign in or Register  edX/input_password'
+
+2018-08-28 06:22:31 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value 'AW' are selected in object 'Object Repository/Page_Sign in or Register  edX/select_Afghanistan'  using regular expression
+
+2018-08-28 06:22:36 - [MESSAGE][PASSED] - All options with value 'AW' are selected in object 'Object Repository/Page_Sign in or Register  edX/select_Afghanistan'  using regular expression
+
+2018-08-28 06:22:36 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Sign in or Register  edX/button_Create Account' is clicked on
+
+2018-08-28 06:22:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in or Register  edX/button_Create Account' is clicked on
+
+2018-08-28 06:22:37 - [TEST_STEP][PASSED] - Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)): Text of object 'Object Repository/Page_Sign in or Register  edX/li_Enter a password with at le' is: 'Enter a password with at least 8 characters & 1 letter.'
+
+2018-08-28 06:22:37 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Sign in or Register  edX/li_Enter a password with at le' is: 'Enter a password with at least 8 characters & 1 letter.'
+
+2018-08-28 06:22:37 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Enter a password with at least 8 characters & 1 letter.' is present on page 
+
+2018-08-28 06:22:38 - [MESSAGE][PASSED] - Text 'Enter a password with at least 8 characters & 1 letter.' is present on page 
+
+2018-08-28 06:22:38 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-08-28 06:22:38 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/case2" classname="Test Cases/case2" status="PASSED">
+         <system-out><![CDATA[2018-08-28 06:22:38 - [TEST_CASE][PASSED] - Test Cases/case2: Test Cases/case2
+
+2018-08-28 06:22:38 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-08-28 06:22:42 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-28 06:22:42 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://courses.edx.org/register' successfully
+
+2018-08-28 06:22:48 - [MESSAGE][PASSED] - Navigate to 'https://courses.edx.org/register' successfully
+
+2018-08-28 06:22:48 - [TEST_STEP][PASSED] - setText: Text 'helena1.mokina@gmail.com' is set on object 'Object Repository/Page_Sign in or Register  edX/input_email'
+
+2018-08-28 06:22:49 - [MESSAGE][PASSED] - Text 'helena1.mokina@gmail.com' is set on object 'Object Repository/Page_Sign in or Register  edX/input_email'
+
+2018-08-28 06:22:49 - [TEST_STEP][PASSED] - setText: Text 'helena' is set on object 'Object Repository/Page_Sign in or Register  edX/input_name'
+
+2018-08-28 06:22:50 - [MESSAGE][PASSED] - Text 'helena' is set on object 'Object Repository/Page_Sign in or Register  edX/input_name'
+
+2018-08-28 06:22:50 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/Page_Sign in or Register  edX/input_username'
+
+2018-08-28 06:22:50 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Sign in or Register  edX/input_username'
+
+2018-08-28 06:22:50 - [TEST_STEP][PASSED] - setText: Text 'Welcome1' is set on object 'Object Repository/Page_Sign in or Register  edX/input_password'
+
+2018-08-28 06:22:50 - [MESSAGE][PASSED] - Text 'Welcome1' is set on object 'Object Repository/Page_Sign in or Register  edX/input_password'
+
+2018-08-28 06:22:50 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value 'AW' are selected in object 'Object Repository/Page_Sign in or Register  edX/select_Afghanistan'  using regular expression
+
+2018-08-28 06:22:56 - [MESSAGE][PASSED] - All options with value 'AW' are selected in object 'Object Repository/Page_Sign in or Register  edX/select_Afghanistan'  using regular expression
+
+2018-08-28 06:22:56 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Sign in or Register  edX/button_Create Account' is clicked on
+
+2018-08-28 06:22:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in or Register  edX/button_Create Account' is clicked on
+
+2018-08-28 06:22:56 - [TEST_STEP][PASSED] - Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)): Text of object 'Object Repository/Page_Sign in or Register  edX/li_Enter a password with at le' is: 'Username must be between 2 and 30 characters long.'
+
+2018-08-28 06:22:56 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Sign in or Register  edX/li_Enter a password with at le' is: 'Username must be between 2 and 30 characters long.'
+
+2018-08-28 06:22:56 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Username must be between 2 and 30 characters long.' is present on page 
+
+2018-08-28 06:22:57 - [MESSAGE][PASSED] - Text 'Username must be between 2 and 30 characters long.' is present on page 
+
+2018-08-28 06:22:57 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-08-28 06:22:58 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/case2" classname="Test Cases/case2" status="PASSED">
+         <system-out><![CDATA[2018-08-28 06:22:58 - [TEST_CASE][PASSED] - Test Cases/case2: Test Cases/case2
+
+2018-08-28 06:22:58 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-08-28 06:23:01 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-28 06:23:01 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://courses.edx.org/register' successfully
+
+2018-08-28 06:23:06 - [MESSAGE][PASSED] - Navigate to 'https://courses.edx.org/register' successfully
+
+2018-08-28 06:23:06 - [TEST_STEP][PASSED] - setText: Text 'helena1.mokina@gmail.com' is set on object 'Object Repository/Page_Sign in or Register  edX/input_email'
+
+2018-08-28 06:23:08 - [MESSAGE][PASSED] - Text 'helena1.mokina@gmail.com' is set on object 'Object Repository/Page_Sign in or Register  edX/input_email'
+
+2018-08-28 06:23:08 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/Page_Sign in or Register  edX/input_name'
+
+2018-08-28 06:23:08 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Sign in or Register  edX/input_name'
+
+2018-08-28 06:23:08 - [TEST_STEP][PASSED] - setText: Text 'helenjohn' is set on object 'Object Repository/Page_Sign in or Register  edX/input_username'
+
+2018-08-28 06:23:08 - [MESSAGE][PASSED] - Text 'helenjohn' is set on object 'Object Repository/Page_Sign in or Register  edX/input_username'
+
+2018-08-28 06:23:08 - [TEST_STEP][PASSED] - setText: Text 'Welcome1' is set on object 'Object Repository/Page_Sign in or Register  edX/input_password'
+
+2018-08-28 06:23:09 - [MESSAGE][PASSED] - Text 'Welcome1' is set on object 'Object Repository/Page_Sign in or Register  edX/input_password'
+
+2018-08-28 06:23:09 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value 'AW' are selected in object 'Object Repository/Page_Sign in or Register  edX/select_Afghanistan'  using regular expression
+
+2018-08-28 06:23:14 - [MESSAGE][PASSED] - All options with value 'AW' are selected in object 'Object Repository/Page_Sign in or Register  edX/select_Afghanistan'  using regular expression
+
+2018-08-28 06:23:14 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Sign in or Register  edX/button_Create Account' is clicked on
+
+2018-08-28 06:23:14 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in or Register  edX/button_Create Account' is clicked on
+
+2018-08-28 06:23:14 - [TEST_STEP][PASSED] - Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)): Text of object 'Object Repository/Page_Sign in or Register  edX/li_Enter a password with at le' is: 'Enter your full name.'
+
+2018-08-28 06:23:15 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Sign in or Register  edX/li_Enter a password with at le' is: 'Enter your full name.'
+
+2018-08-28 06:23:15 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'Enter your full name.' is present on page 
+
+2018-08-28 06:23:15 - [MESSAGE][PASSED] - Text 'Enter your full name.' is present on page 
+
+2018-08-28 06:23:15 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-08-28 06:23:16 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/case2" classname="Test Cases/case2" status="FAILED">
+         <failure type="FAILED" message="Unable to verify text 'Test' is present  (Root cause: Text 'Test' is not present on page )"/>
+         <system-out><![CDATA[2018-08-28 06:23:16 - [TEST_CASE][FAILED] - Test Cases/case2: Test Cases/case2 FAILED because (of) Unable to verify text 'Test' is present  (Root cause: Text 'Test' is not present on page )
+
+2018-08-28 06:23:16 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: ''
+
+2018-08-28 06:23:19 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2018-08-28 06:23:19 - [TEST_STEP][PASSED] - navigateToUrl: Navigate to 'https://courses.edx.org/register' successfully
+
+2018-08-28 06:23:24 - [MESSAGE][PASSED] - Navigate to 'https://courses.edx.org/register' successfully
+
+2018-08-28 06:23:24 - [TEST_STEP][PASSED] - setText: Text 'helena1.mokina@gmail.com' is set on object 'Object Repository/Page_Sign in or Register  edX/input_email'
+
+2018-08-28 06:23:26 - [MESSAGE][PASSED] - Text 'helena1.mokina@gmail.com' is set on object 'Object Repository/Page_Sign in or Register  edX/input_email'
+
+2018-08-28 06:23:26 - [TEST_STEP][PASSED] - setText: Text '' is set on object 'Object Repository/Page_Sign in or Register  edX/input_name'
+
+2018-08-28 06:23:26 - [MESSAGE][PASSED] - Text '' is set on object 'Object Repository/Page_Sign in or Register  edX/input_name'
+
+2018-08-28 06:23:26 - [TEST_STEP][PASSED] - setText: Text 'helenjohn' is set on object 'Object Repository/Page_Sign in or Register  edX/input_username'
+
+2018-08-28 06:23:27 - [MESSAGE][PASSED] - Text 'helenjohn' is set on object 'Object Repository/Page_Sign in or Register  edX/input_username'
+
+2018-08-28 06:23:27 - [TEST_STEP][PASSED] - setText: Text 'Welcome1' is set on object 'Object Repository/Page_Sign in or Register  edX/input_password'
+
+2018-08-28 06:23:27 - [MESSAGE][PASSED] - Text 'Welcome1' is set on object 'Object Repository/Page_Sign in or Register  edX/input_password'
+
+2018-08-28 06:23:27 - [TEST_STEP][PASSED] - selectOptionByValue: All options with value 'AW' are selected in object 'Object Repository/Page_Sign in or Register  edX/select_Afghanistan'  using regular expression
+
+2018-08-28 06:23:32 - [MESSAGE][PASSED] - All options with value 'AW' are selected in object 'Object Repository/Page_Sign in or Register  edX/select_Afghanistan'  using regular expression
+
+2018-08-28 06:23:32 - [TEST_STEP][PASSED] - click: Object: 'Object Repository/Page_Sign in or Register  edX/button_Create Account' is clicked on
+
+2018-08-28 06:23:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign in or Register  edX/button_Create Account' is clicked on
+
+2018-08-28 06:23:32 - [TEST_STEP][PASSED] - Statement - text = com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.getText(com.kms.katalon.core.testobject.ObjectRepository.findTestObject(Page_Sign in or Register  edX/li_Enter a password with at le)): Text of object 'Object Repository/Page_Sign in or Register  edX/li_Enter a password with at le' is: 'Enter your full name.'
+
+2018-08-28 06:23:32 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_Sign in or Register  edX/li_Enter a password with at le' is: 'Enter your full name.'
+
+2018-08-28 06:23:32 - [TEST_STEP][FAILED] - verifyTextPresent: Unable to verify text 'Test' is present  (Root cause: Text 'Test' is not present on page )
+
+2018-08-28 06:23:33 - [MESSAGE][FAILED] - Text 'Test' is not present on page 
+
+2018-08-28 06:23:34 - [MESSAGE][FAILED] - Unable to verify text 'Test' is present  (Root cause: Text 'Test' is not present on page )
+[[ATTACHMENT|D:\\Katalon_Studio_Windows_32-5.6.1\\wwwww\\Reports\\TestSuiteCase2\\20180828_062207\\1535426613617.png]]]]></system-out>
+         <system-err><![CDATA[2018-08-28 06:23:16 - [TEST_CASE][FAILED] - Test Cases/case2: Test Cases/case2 FAILED because (of) Unable to verify text 'Test' is present  (Root cause: Text 'Test' is not present on page )]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-08-28 06:22:13 - [TEST_SUITE][FAILED] - TestSuiteCase2: Test Cases/case2 FAILED because (of) Unable to verify text 'Test' is present  (Root cause: Text 'Test' is not present on page )]]></system-out>
+      <system-err><![CDATA[2018-08-28 06:22:13 - [TEST_SUITE][FAILED] - TestSuiteCase2: Test Cases/case2 FAILED because (of) Unable to verify text 'Test' is present  (Root cause: Text 'Test' is not present on page )]]></system-err>
+   </testsuite>
+</testsuites>
