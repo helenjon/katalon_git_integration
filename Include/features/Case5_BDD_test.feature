@@ -24,7 +24,7 @@ Feature: Registration check
   @Valid
   Scenario Outline: Registration with valid data
     Given I navigate to registration page
-    When I enter Email as "email" and Full Name as "name" and Public Username as "username" and Password as "password"  
+    When I enter Email as <email> and Full Name as <name> and Public Username as <username> and Password as <password>  
     And I click Create Account 
     Then Account was created successfully
 
