@@ -21,15 +21,29 @@ Feature: Registration check
   As a user, I want to passregistration
   So than I can enroll to course
 
-  @Valid
-  Scenario Outline: Registration with valid data
-    Given I navigate to registration page
-    When I enter Email as <email> and Full Name as <name> and Public Username as <username> and Password as <password>  
-    And I click Create Account 
-    Then Account was created successfully
+#  @Valid
+#  Scenario Outline: Registration with valid data
+#    Given I navigate to registration page
+#    When I enter Email as <email> and Full Name as <name> and Public Username as <username> and Password as <password>  
+#    And I click Create Account 
+#    Then Account was created successfully
 
-    Examples: 
-      | email                  | name   | username  | password       |
-      | testtesttest@gmail.com | test   | test      | Welcome        |
-      | testt@gmail.com        | ttest  | ttest     | tWelcome       |
+#    Examples: 
+#      | email                  | name   | username  | password       |
+#      | testtesttest@gmail.com | test   | test      | Welcome        |
+#      | testt@gmail.com        | ttest  | ttest     | tWelcome       |
+      
+      
+  @Valid
+  Scenario Outline: Login and search
+    Given I navigate to SingIn page
+    When I enter Email as <email> and Password as <password>  
+    And I click Sign In 
+    When Username is LoggedIn 
+    Then Explore new Courses button return results
+    
+
+     Examples: 
+      | email                   | password       | 
+      | helena.mokina@gmail.com | Welcome1   | 
 
